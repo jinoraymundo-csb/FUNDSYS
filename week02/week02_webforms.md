@@ -11,9 +11,9 @@ A web form's HTML is made up of one or more **form controls** (sometimes called 
 Form controls can also be programmed to enforce specific formats or values to be entered (**form validation**), and paired with text labels that describe their purpose to both sighted and visually impaired users.
 
 ---
-> Activity 02: Simple HTML Form
+> Activity 04: Simple HTML Form
 
-`C:\Users\raymundoj\Documents\FUNDSYS\week02\activity02\index.html`
+`C:\Users\raymundoj\Documents\FUNDSYS\week02\activity04\index.html`
 
 ```
 <!DOCTYPE html>
@@ -143,17 +143,17 @@ button {
 
 ---
 
-> Activity 03: Structuring a Web Form
+> Activity 04: Structuring a Web Form
 
 #### Step 01: initial HTML template
 
-`C:\Users\raymundoj\Documents\FUNDSYS\week02\activity03\index.html`
+`C:\Users\raymundoj\Documents\FUNDSYS\week02\activity04\index.html`
 
 Copy the blank html file from activity02
 
 #### Step 02: CSS
 
-`C:\Users\raymundoj\Documents\FUNDSYS\week02\activity03\payment-form.css`
+`C:\Users\raymundoj\Documents\FUNDSYS\week02\activity04\payment-form.css`
 
 
 ```
